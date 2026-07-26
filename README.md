@@ -5,7 +5,7 @@
 ### Developer working across native applications, tooling, and game scripting.
 
 <p>
-  I enjoy building clean, efficient software and learning how things work under the hood.
+  I enjoy building things...
 </p>
 
 </div>
