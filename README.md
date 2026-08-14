@@ -2,12 +2,6 @@
 
 # LUM1NULL
 
-### Developer working across native applications, tooling, and game scripting.
-
-<p>
-  I enjoy building things...
-</p>
-
 </div>
 
 ---
