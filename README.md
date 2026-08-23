@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LUM1NULL&theme=github-compact&hide_border=true" />
-</p>
+# LUM1NULL
+
+![3D Contributions](./profile-3d-contrib/profile-night-green.svg)
